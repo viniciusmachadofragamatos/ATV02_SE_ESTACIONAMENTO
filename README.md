@@ -7,4 +7,4 @@ um dos problemas enfrentados foi como adicionar mais uma catraca microservo e co
 produtivo aprendemos o que o serial faz, pulseIn tone/noTone, como funciona incluir bibliotecas, usar o lcd, como é utilizado o microserver e o 
 calculo de distancia com o sensor ultrasonico e principalmente a diferença entre milis, delay e delayMicroseconds
 # Quero ver!
-Bom aqui vai o link para nosso projeto thinkercad: https://www.tinkercad.com/things/cAk9EHXxQUx/editel?returnTo=%2Fdashboard
+Bom o link para nosso projeto esta anexado no teams para o professor, por motivos de segurança
