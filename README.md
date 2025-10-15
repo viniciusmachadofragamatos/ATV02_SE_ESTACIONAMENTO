@@ -6,3 +6,5 @@ por exemplo a tabela de microsegundos que o piezer funciona mudando conforme a d
 um dos problemas enfrentados foi como adicionar mais uma catraca microservo e configurar cada coisa para sua respectiva estrutura, no demais foi bem
 produtivo aprendemos o que o serial faz, pulseIn tone/noTone, como funciona incluir bibliotecas, usar o lcd, como é utilizado o microserver e o 
 calculo de distancia com o sensor ultrasonico e principalmente a diferença entre milis, delay e delayMicroseconds
+# Quero ver!
+Bom aqui vai o link para nosso projeto thinkercad: https://www.tinkercad.com/things/cAk9EHXxQUx/editel?returnTo=%2Fdashboard
